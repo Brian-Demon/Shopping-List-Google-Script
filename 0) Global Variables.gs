@@ -1,4 +1,5 @@
-const ss = SpreadsheetApp.openById("1ml5OQYzO2hmJLaGyOUkD_LwtPHx7fx_eO8dXf7_HFmc");
+const ssID = SpreadsheetApp.getActiveSpreadsheet().getId();
+var ss = SpreadsheetApp.openById(ssID);
 
 const listSheet = ss.getSheetByName("LIST");
 const archiveSheet = ss.getSheetByName("ARCHIVE");

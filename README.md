@@ -4,7 +4,7 @@ Simple Google Sheets (Script) Shopping List
 Designed to be used on mobile devises while in a store.  Therefore, a lot of the core functionality and helpful built in Google Sheets magic is not implemented (i.e. menus, buttons, etc).
 
 ## Required files:
-
+Make a copy of the following Spreadsheet: https://docs.google.com/spreadsheets/d/1RhZTWXVuuTN3KAKoCCWm5j65QZaD2l0vMXEOgsdFb5g/
 
 ## Google Apps GitHub Assistant:
 Add Google Appos Script GitHub Assistant (https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related) to gain access to GitHub functionalty
